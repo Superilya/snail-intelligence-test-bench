@@ -1,0 +1,22 @@
+{
+  "field": {
+    "width": 12,
+    "height": 12
+  },
+  "players": [
+    {
+      "host": "http://localhost:3333",
+      "startPosition": {
+        "left": 5,
+        "top": 5
+      }
+    },
+    {
+      "host": "http://host.docker.internal:3002",
+      "startPosition": {
+        "left": 10,
+        "top": 10
+      }
+    }
+  ]
+}
